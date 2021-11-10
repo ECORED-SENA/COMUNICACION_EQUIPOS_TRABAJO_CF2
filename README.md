@@ -1,8 +1,8 @@
-# **sena-base-2021 v5.0.0**
+# **Manejo de la comunicación en un equipo de trabajo**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED-BASE-2021](https://ecored-sena.github.io/ECORED-BASE-2021)
+[https://ecored-sena.github.io/COMUNICACION_EQUIPOS_TRABAJO_CF2/](https://ecored-sena.github.io/COMUNICACION_EQUIPOS_TRABAJO_CF2/)
 
 #
 
