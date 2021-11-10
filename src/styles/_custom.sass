@@ -1,0 +1,147 @@
+.container-fondo
+  background-image: url('../assets/curso/fondo.jpg')
+  background-size: 100%
+  background-repeat: no-repeat
+  background-position: 100% -100%
+
+
+.acordion
+  .tarjeta.color-acento-contenido
+    background-color: #EDFFD5
+    transition: background-color 0.3s ease-in-out
+    &.acordion__activo
+      background-color: #CCFFF9
+
+.color-marron-claro
+  background-color: #fff8ef
+
+.tarjeta-infografia
+  background: linear-gradient(0deg, rgba(137,255,242,1) 0%, rgba(204,255,249,1) 100%)
+  border-top-left-radius: 40px
+  .numero
+    width: 50px
+    height: 50px
+    border-radius: 50%
+    background-color: #00A593
+    position: relative
+    span
+      position: absolute
+      top: 50%
+      left: 50%
+      transform: translate(-50%,-50%)
+      font-size: 25px
+      font-weight: 700
+      color: $white
+
+
+.tarjeta-n
+  border-top-left-radius: 50px
+  border-bottom-right-radius: 50px
+  &.color-secundario
+    background-color: #2DF0DA
+  &.color-primario
+    background-color: #e1f1f5
+    border: 2px solid $color-acento-botones
+
+.tarjeta-nn
+  border-top-left-radius: 50px
+  &.color-primario
+    background-color: #a3edff
+  &.color-secundario
+    background-color: #ccfff9
+
+
+.lista-ul--color 
+  li 
+    h5
+      color: $color-primario
+    & > i:first-of-type
+      color: $color-acento-botones
+
+.tabla-a.color-acento-contenido
+  th
+    background-color: $color-primario
+    border-color: $color-primario
+  table caption
+    background-color: #EDFFD5
+    font-weight: 400
+
+
+
+.lista-ol--cuadro__vineta
+  background-color: $color-acento-botones
+
+h5.color-primario
+  color: $color-primario
+
+figcaption
+  font-weight: 400
+  background-color: #A3EDFF
+
+
+.color-acento-contenido--claro
+  background-color: #e1fcbb
+.color-primario--claro
+  background-color: #bdebf6
+.color-secundario--claro
+  background-color: #e0fffb
+
+.ep
+  b
+    color: $color-primario
+
+.tarjetas--conectadas-b
+  &.tarjeta--container > .tarjeta:last-child
+    border-top-right-radius: 50px
+    border-bottom-right-radius: 0
+  &.tarjeta--container > .tarjeta:first-child
+    border-top-left-radius: 50px
+    border-bottom-left-radius: 0
+
+
+.bloque-texto-a.color-acento-contenido
+  background-color: #EDFFD5
+  &:before
+    background-color: #45C6E5
+
+  .bloque-texto-b__texto
+    i
+      color: $color-acento-contenido
+  .last
+    vertical-align: text-top
+
+
+  .bloque-texto-a__texto
+    background-color: rgba(255,255,255,.9)
+
+.t-grandes
+  .img-infografica__card
+    width: 100%
+    max-width: 600px
+
+
+.cosa-verde
+  width: 65px
+  height: 56px
+  background-image: url(../assets/curso/cosa-verde.svg)
+  position: absolute
+  transform: translate(-50%, -50%)
+
+  &.cosa-izq
+    top: 20px
+    left: 20px
+  &.cosa-der
+    top: calc(100% - 20px)
+    left: calc(100% - 20px)
+
+
+.t-blanca
+  &.img-infografica.color-secundario .img-infografica__item__dot:before,
+  &.img-infografica.color-secundario .img-infografica__item__dot:after, 
+  &.img-infografica.color-secundario .img-infografica-b__item__dot:before, 
+  &.img-infografica.color-secundario .img-infografica-b__item__dot:after, 
+  &.img-infografica-b.color-secundario .img-infografica__item__dot:before, 
+  &.img-infografica-b.color-secundario .img-infografica__item__dot:after, 
+  &.img-infografica-b.color-secundario .img-infografica-b__item__dot:before, 
+  &.img-infografica-b.color-secundario .img-infografica-b__item__dot:after
+    background-color: $white
