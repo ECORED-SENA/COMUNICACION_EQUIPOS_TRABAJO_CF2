@@ -10,9 +10,11 @@
         h1 Protocolos de atención
 
       .row.justify-content-center.mb-5
-        .col-lg-7.mb-4.mb-lg-0
-          p Garantizar el servicio al cliente es una prioridad para las organizaciones que se enfrentan a una creciente oferta del mercado e implica encontrar la forma de fidelizarlo. Desde este punto de vista, se establecen protocolos de atención que sirven de guía para que los empleados cumplan con los procedimientos apropiados para relacionarse con los clientes.
-          p.mb-0 Un protocolo de atención, aparte de ser una guía para los colaboradores de la organización sobre la manera de tratar con el cliente, también contiene la visión y los criterios de lo que significa un buen servicio al cliente y busca garantizar que la interacción con el cliente sea eficaz. Se invita a escuchar el siguiente <em>podcast</em>.
+        .col-lg-7.mb-4.mb-lg-0.position-relative
+          .coso-1
+            img(src="@/assets/curso/coso-0.svg")
+          p.position-relative Garantizar el servicio al cliente es una prioridad para las organizaciones que se enfrentan a una creciente oferta del mercado e implica encontrar la forma de fidelizarlo. Desde este punto de vista, se establecen protocolos de atención que sirven de guía para que los empleados cumplan con los procedimientos apropiados para relacionarse con los clientes.
+          p.position-relative.mb-0 Un protocolo de atención, aparte de ser una guía para los colaboradores de la organización sobre la manera de tratar con el cliente, también contiene la visión y los criterios de lo que significa un buen servicio al cliente y busca garantizar que la interacción con el cliente sea eficaz. Se invita a escuchar el siguiente <em>podcast</em>.
 
         .col-lg-5
           img(src="@/assets/curso/t4-01.png")
@@ -30,7 +32,7 @@
                 p.text-white Para afianzar sus conocimientos en los protocolos de servicio al cliente y cómo diseñarlo, se invita a visitar el siguiente blog.
 
                 a.boton(href="https://blog.hubspot.es/service/protocolo-servicio-cliente" target="_blank")
-                  span.me-1 Video
+                  span.me-1 Blog
                   i.fas.fa-angle-right
 
       p.mb-5 A continuación, se mencionan algunas ventajas de un protocolo de servicio al cliente:

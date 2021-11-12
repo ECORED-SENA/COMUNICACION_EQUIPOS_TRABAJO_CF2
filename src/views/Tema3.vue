@@ -10,12 +10,14 @@
         h1 Canales de comunicación
 
       .row.justify-content-center.mb-5
-        .col-lg-7.mb-4.mb-lg-0
-          p Un canal de comunicación se define como el medio físico utilizado para transmitir datos, mensajes o información, que envía un emisor a uno o varios receptores.
+        .col-lg-7.mb-4.mb-lg-0.position-relative
+          .coso-1
+            img(src="@/assets/curso/coso-0.svg")
+          p.position-relative Un canal de comunicación se define como el medio físico utilizado para transmitir datos, mensajes o información, que envía un emisor a uno o varios receptores.
 
-          h5 Algunas características de los canales de comunicación son:
+          h5.position-relative Algunas características de los canales de comunicación son:
 
-          ul.lista-ul--color
+          ul.position-relative.lista-ul--color
             li 
               i.fas.fa-dot-circle.text-small
               p.mb-0 Ofrecen un servicio definido y secuencial, o sea, dependen de la participación conjunta del emisor y del receptor.
@@ -29,7 +31,7 @@
               i.fas.fa-dot-circle.text-small
               p.mb-0 Están disponibles ante cualquier problema o necesidad.
 
-          p.mb-0 <em>Grosso modo</em>, los canales se dividen en:
+          p.position-relative.mb-0 <em>Grosso modo</em>, los canales se dividen en:
 
         .col-lg-5
           img(src="@/assets/curso/t3-01.png")

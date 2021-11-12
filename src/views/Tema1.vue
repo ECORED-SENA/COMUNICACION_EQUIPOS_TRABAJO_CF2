@@ -10,9 +10,11 @@
         h1 Barreras de la comunicación
 
       .row.justify-content-center.mb-5
-        .col-lg-7.mb-4.mb-lg-0
-          p Las barreras de la comunicación dificultan, limitan o evitan que el proceso comunicativo se dé en condiciones óptimas, generando de esta manera distorsiones en la interpretación del mensaje en un proceso comunicativo. Es por ello que el mundo actual cambia constantemente y exige que las empresas diseñen estrategias de comunicación, en todos los niveles de la organización, que garanticen la resistencia en el mercado.
-          p.mb-0 Estos elementos que distorsionan la interpretación del mensaje se denominan barreras, las cuales se pueden observar en el siguiente video
+        .col-lg-7.mb-4.mb-lg-0.position-relative
+          .coso-1
+            img(src="@/assets/curso/coso-0.svg")
+          p.position-relative Las barreras de la comunicación dificultan, limitan o evitan que el proceso comunicativo se dé en condiciones óptimas, generando de esta manera distorsiones en la interpretación del mensaje en un proceso comunicativo. Es por ello que el mundo actual cambia constantemente y exige que las empresas diseñen estrategias de comunicación, en todos los niveles de la organización, que garanticen la resistencia en el mercado.
+          p.position-relative.mb-0 Estos elementos que distorsionan la interpretación del mensaje se denominan barreras, las cuales se pueden observar en el siguiente video
         .col-lg-5
           img(src="@/assets/curso/t1-01.png")
 

@@ -10,10 +10,12 @@
         h1 Asertividad
 
       .row.justify-content-center.mb-5
-        .col-lg-7.mb-4.mb-lg-0
-          p La comunicación asertiva es un pilar esencial en las organizaciones, ya que contribuye a mantener relaciones pacíficas que contribuyen a la paz y el diálogo. Ser asertivo es una habilidad social de gran valor y, a nivel laboral, es una habilidad blanda de gran valor que se relaciona con la inteligencia emocional y la capacidad para comunicarse con otros de manera eficiente y precisa.
-          p “La asertividad es la capacidad de autoafirmar los propios derechos, sin dejarse manipular y sin manipular a los demás” (Castanyer, 2010, p. 23). En otras palabras, es la destreza que tiene una persona para expresar sus opiniones, creencias y emociones de manera respetuosa, haciendo valer sus derechos, pero, a la vez, aceptando las opiniones y críticas de los demás, sin sentirse afectada o culpable. 
-          p.mb-0 A continuación, se pueden visualizar los diferentes pasos para una comunicación asertiva.
+        .col-lg-7.mb-4.mb-lg-0.position-relative
+          .coso-1
+            img(src="@/assets/curso/coso-0.svg")
+          p.position-relative La comunicación asertiva es un pilar esencial en las organizaciones, ya que contribuye a mantener relaciones pacíficas que contribuyen a la paz y el diálogo. Ser asertivo es una habilidad social de gran valor y, a nivel laboral, es una habilidad blanda de gran valor que se relaciona con la inteligencia emocional y la capacidad para comunicarse con otros de manera eficiente y precisa.
+          p.position-relative “La asertividad es la capacidad de autoafirmar los propios derechos, sin dejarse manipular y sin manipular a los demás” (Castanyer, 2010, p. 23). En otras palabras, es la destreza que tiene una persona para expresar sus opiniones, creencias y emociones de manera respetuosa, haciendo valer sus derechos, pero, a la vez, aceptando las opiniones y críticas de los demás, sin sentirse afectada o culpable. 
+          p.position-relative.mb-0 A continuación, se pueden visualizar los diferentes pasos para una comunicación asertiva.
         .col-lg-5
           img(src="@/assets/curso/t2-01.png")
 
@@ -94,7 +96,10 @@
             .row.justify-content-around.align-items-center
               .col-lg-3.mb-4.mb-lg-0
                 img(src="@/assets/curso/t2-05.svg")
-              .col-lg-8              
+              .col-lg-8
+              
+                .titulo-segundo.color-acento-contenido.mb-4
+                  h2 Técnicas avanzadas de comunicación asertiva   
                 p.text-white Para reforzar sus conocimientos en identificar las técnicas de comunicación asertiva, se invita a visitar el siguiente video de YouTube.
 
                 a.boton(href="https://www.youtube.com/watch?v=6B2UR4WYs0c" target="_blank")
@@ -208,14 +213,10 @@
               td.text-center(colspan="2") Explicar a la otra persona la molestia que causa su comportamiento y las emociones que provoca, y cerrar explicando la conducta esperada.
               td(colspan="2")
                 ol.lista-ol--cuadro.mb-0
-                  li 
+                  li.mb-0
                     .lista-ol--cuadro__vineta
                       span a
                     | “Ya no tienes tiempo para hablar…<br>Sé que estás muy ocupado…<br>Pero deberías…”
-                  li.mb-0
-                    .lista-ol--cuadro__vineta
-                      span b
-                    | “¿Qué te parece si lo dejamos ahora, que tengo trabajo, y mejor hablamos mañana?”
 
       Separador
 
