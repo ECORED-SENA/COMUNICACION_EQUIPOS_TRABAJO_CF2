@@ -172,14 +172,14 @@
             .row.justify-content-center.mb-4
               .col-10
                 img(src="@/assets/curso/t3-10.svg")
-            p.mb-0 Los canales de comunicación tienen alta relevancia en el mundo empresarial para mantener la interacción con sus diferentes públicos y cumplir con las expectativas de los clientes internos y externos. La selección de los canales debe realizarse con cuidado y estar fundamentada en una estrategia que contempla al público objetivo y el análisis de las particularidades del negocio.
+            p.mb-0.text-center Los canales de comunicación tienen alta relevancia en el mundo empresarial para mantener la interacción con sus diferentes públicos y cumplir con las expectativas de los clientes internos y externos. La selección de los canales debe realizarse con cuidado y estar fundamentada en una estrategia que contempla al público objetivo y el análisis de las particularidades del negocio.
         
         .col-md-6.col-lg-4.mb-3.mb-lg-0
           .tarjeta-nn.tarjeta-nn--b.color-secundario.pt-5.pb-4.px-4.h-100
             .row.justify-content-center.mb-4
               .col-10
                 img(src="@/assets/curso/t3-11.svg")
-            p.mb-0 Los canales de comunicación son un pilar al momento de construir identidad corporativa, al establecer recordación de marca, en la captación y fidelización de clientes. Las herramientas escogidas para este fin permiten crear un vínculo real y así continuar con una comunicación fluida entre las partes.
+            p.mb-0.text-center Los canales de comunicación son un pilar al momento de construir identidad corporativa, al establecer recordación de marca, en la captación y fidelización de clientes. Las herramientas escogidas para este fin permiten crear un vínculo real y así continuar con una comunicación fluida entre las partes.
 
 
         .col-md-6.col-lg-4
@@ -187,7 +187,7 @@
             .row.justify-content-center.mb-4
               .col-10
                 img(src="@/assets/curso/t3-12.svg")
-            p.mb-0 La tecnología y la volatilidad con que los consumidores buscan productos y servicios hace que las organizaciones encuentren soluciones innovadoras al momento de usar los diferentes tipos de canales para comunicarse con sus clientes, crear nexos de confianza y recibir realimentación relacionada con el servicio prestado, dar más alcance a la marca y, a su vez, para aumentar ventas e incrementar ingresos.
+            p.mb-0.text-center La tecnología y la volatilidad con que los consumidores buscan productos y servicios hace que las organizaciones encuentren soluciones innovadoras al momento de usar los diferentes tipos de canales para comunicarse con sus clientes, crear nexos de confianza y recibir realimentación relacionada con el servicio prestado, dar más alcance a la marca y, a su vez, para aumentar ventas e incrementar ingresos.
 
 </template>
 
