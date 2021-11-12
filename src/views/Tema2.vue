@@ -8,7 +8,7 @@
         span 2
       h1 Asertividad
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.mb-5
       .col-lg-7.mb-4.mb-lg-0
         p La comunicación asertiva es un pilar esencial en las organizaciones, ya que contribuye a mantener relaciones pacíficas que contribuyen a la paz y el diálogo. Ser asertivo es una habilidad social de gran valor y, a nivel laboral, es una habilidad blanda de gran valor que se relaciona con la inteligencia emocional y la capacidad para comunicarse con otros de manera eficiente y precisa.
         p “La asertividad es la capacidad de autoafirmar los propios derechos, sin dejarse manipular y sin manipular a los demás” (Castanyer, 2010, p. 23). En otras palabras, es la destreza que tiene una persona para expresar sus opiniones, creencias y emociones de manera respetuosa, haciendo valer sus derechos, pero, a la vez, aceptando las opiniones y críticas de los demás, sin sentirse afectada o culpable. 
@@ -44,40 +44,40 @@
             i.fas.fa-dot-circle.text-small
             div
               h5.d-inline La mirada: 
-              p.d-inline Las personas asertivas miran más mientras hablan. La cantidad y tipo de mirada transmiten cualidades interpersonales. 
+              p.d-inline las personas asertivas miran más mientras hablan. La cantidad y tipo de mirada transmiten cualidades interpersonales. 
           li 
             i.fas.fa-dot-circle.text-small
             div
               h5.d-inline Expresión facial: 
-              p.d-inline Debe ser congruente con el tipo de mensaje que se quiere decir. 
+              p.d-inline debe ser congruente con el tipo de mensaje que se quiere decir. 
           li 
             i.fas.fa-dot-circle.text-small
             div
               h5.d-inline Postura corporal: 
-              p.d-inline Cercana y erguida, mirando de frente a la persona con quien se está hablando. 
+              p.d-inline cercana y erguida, mirando de frente a la persona con quien se está hablando. 
           li 
             i.fas.fa-dot-circle.text-small
             div
-              h5.d-inline Gestos:
-              p.d-inline Indican franqueza, autoconfianza y espontaneidad por parte del interlocutor.
+              h5.d-inline Gestos: 
+              p.d-inline indican franqueza, autoconfianza y espontaneidad por parte del interlocutor.
 
         h5 Componentes verbales en la comunicación asertiva:
         ul.lista-ul--color
           li 
             i.fas.fa-dot-circle.text-small
             div
-              h5.d-inline Diálogo duradero, 
+              h5.d-inline Diálogo duradero: 
               p.d-inline evitar los vacíos en la conversación.
           li 
             i.fas.fa-dot-circle.text-small
             div
-              h5.d-inline Retroalimentación o feedback: 
-              p.d-inline Reciprocidad de señales de atención y comprensión. 
+              h5.d-inline Retroalimentación o <em>feedback</em>: 
+              p.d-inline reciprocidad de señales de atención y comprensión. 
           li 
             i.fas.fa-dot-circle.text-small
             div
               h5.d-inline Preguntas: 
-              p.d-inline Fundamentales para mantener una conversación, conseguir información y demostrar interés. 
+              p.d-inline fundamentales para mantener una conversación, conseguir información y demostrar interés. 
 
     Separador
 
@@ -92,13 +92,10 @@
           .row.justify-content-around.align-items-center
             .col-lg-3.mb-4.mb-lg-0
               img(src="@/assets/curso/t2-05.svg")
-            .col-lg-8
-              .titulo-segundo.color-acento-contenido.mb-4
-                h2.text-white 2.1 Técnicas de comunicación asertiva
-              
-              p.text-white Para reforzar sus conocimientos en identificar las técnicas de comunicación asertiva, se invita a visitar el siguiente video de YouTube
+            .col-lg-8              
+              p.text-white Para reforzar sus conocimientos en identificar las técnicas de comunicación asertiva, se invita a visitar el siguiente video de YouTube.
 
-              a.boton
+              a.boton(href="https://www.youtube.com/watch?v=6B2UR4WYs0c" target="_blank")
                 span.me-1 Video
                 i.fas.fa-angle-right
     
@@ -172,10 +169,6 @@
                   .lista-ol--cuadro__vineta
                     span a
                   | “Veamos esta película en Netflix”.
-                li.mb-0
-                  .lista-ol--cuadro__vineta
-                    span b
-                  | “¿Qué te parece si, en lugar de ver la película, mejor vamos al centro comercial?”
 
           tr
             td 
@@ -318,7 +311,7 @@
           span Maneras de adquirir y mejorar la comunicación asertiva
         figure
           img(src="@/assets/curso/t2-08.svg")
-          figcaption La comunicación asertiva es una habilidad que se puede adquirir y mejorar en el día a día. Elaboración a partir de Vela (2016).
+          figcaption Nota. La comunicación asertiva es una habilidad que se puede adquirir y mejorar en el día a día. Elaboración a partir de Vela (2016).
 
     .row.justify-content-center.align-items-center
       .col-lg-5.mb-4.mb-lg-0
@@ -330,47 +323,47 @@
               i.fas.fa-dot-circle.text-small
               div
                 h5.d-inline Practicar la escucha activa: 
-                | Enfocarse en escuchar para comprender a la otra persona, en lugar de escuchar solo para dar respuestas.
+                | enfocarse en escuchar para comprender a la otra persona, en lugar de escuchar solo para dar respuestas.
             li 
               i.fas.fa-dot-circle.text-small
               div
                 h5.d-inline Evitar ser tajante y argumentar: 
-                | Se trata de ser coherente, no de buscar justificaciones o de ceder a lo que otros quieren imponer.
+                | se trata de ser coherente, no de buscar justificaciones o de ceder a lo que otros quieren imponer.
             li 
               i.fas.fa-dot-circle.text-small
               div
                 h5.d-inline No juzgar ni poner etiquetas: 
-                | Reconocer que hay diferencias y que no siempre se tiene la razón.
+                | reconocer que hay diferencias y que no siempre se tiene la razón.
             li 
               i.fas.fa-dot-circle.text-small
               div
                 h5.d-inline Hablar en primera persona: 
-                | Evita dar por sentado el propio criterio y que los demás caigan en generalizaciones.
+                | evita dar por sentado el propio criterio y que los demás caigan en generalizaciones.
             li 
               i.fas.fa-dot-circle.text-small
               div
                 h5.d-inline Practicar el autoconocimiento: 
-                | Cuáles son los propósitos y objetivos que se tienen para diseñar la vida personal y profesional, estos son los puntos de partida.
+                | cuáles son los propósitos y objetivos que se tienen para diseñar la vida personal y profesional, estos son los puntos de partida.
             li 
               i.fas.fa-dot-circle.text-small
               div
                 h5.d-inline Utilizar el lenguaje extraverbal: 
-                | Transmitir y generar emociones positivas en las otras personas, que permitan mayor comprensión y una retroalimentación positiva.
+                | transmitir y generar emociones positivas en las otras personas, que permitan mayor comprensión y una retroalimentación positiva.
             li 
               i.fas.fa-dot-circle.text-small
               div
                 h5.d-inline Mantener a raya las emociones: 
-                | Controlar las reacciones que las emociones producen.
+                | controlar las reacciones que las emociones producen.
             li 
               i.fas.fa-dot-circle.text-small
               div
                 h5.d-inline Ser empático: 
-                | Ponerse en la posición del otro, dar para recibir.
+                | ponerse en la posición del otro, dar para recibir.
             li.mb-0
               i.fas.fa-dot-circle.text-small
               div
                 h5.d-inline Ser adecuado: 
-                | Saber ser y saber estar. 
+                | saber ser y saber estar. 
 
 </template>
 

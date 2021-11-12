@@ -133,12 +133,12 @@ export default {
       },
     ],
     subMenu: [
-      // {
-      //   nombreRuta: 'actividad',
-      //   icono: 'far fa-question-circle',
-      //   titulo: 'Actividad didáctica',
-      //   desarrolloContenidos: true,
-      // },
+      {
+        nombreRuta: 'actividad',
+        icono: 'far fa-question-circle',
+        titulo: 'Actividad didáctica',
+        desarrolloContenidos: true,
+      },
       {
         nombreRuta: 'glosario',
         icono: 'fas fa-sort-alpha-down',
@@ -297,6 +297,28 @@ export default {
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
+      {
+        nombre: 'Neira Patricia Gamboa Suarez',
+        cargo: 'Experto temático',
+        centro:
+          'Centro de servicios empresariales y turísticos Regional Santander',
+      },
+      {
+        nombre: 'Gloria Lida Álzate Suárez',
+        cargo: 'Diseñadora instruccional',
+        centro:
+          'Centro para la Industria de la Comunicación Gráfica Regional Distrito Capital',
+      },
+      {
+        nombre: 'Carolina Coca Salazar',
+        cargo: 'Revisora metodológica y pedagógica',
+        centro: 'Centro de Diseño y Metrología Regional Distrito Capital',
+      },
+      {
+        nombre: 'Darío González',
+        cargo: 'Corrección de estilo',
+        centro: 'Centro Agropecuario La Granja Regional Tolima',
+      },
     ],
     desarrolloProducto: [
       {
@@ -311,13 +333,19 @@ export default {
         centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
       {
-        nombre: ['Nombre 1', 'Nombre 2'],
+        nombre: 'Marcela Gonzalez',
         cargo: 'Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Andres Mauricio Santaella',
+        cargo: 'Soporte front-end',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Andres Mauricio Santaella',
         cargo: 'Desarrollo Front-End',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
@@ -329,7 +357,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Jhana Johanna Bustillo Ardila',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',

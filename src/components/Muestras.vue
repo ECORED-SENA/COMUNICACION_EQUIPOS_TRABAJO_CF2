@@ -14,7 +14,7 @@ div
 
   //- .titulo-segundo debe ir acompañado de una de una de estas clases => 
   //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
-  .titulo-segundo.color-secundario
+  .titulo-segundo.color-acento-contenido
     h2 1.1  Título de segundo nivel, 24pt
 
   p.mb-5 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vestibulum tortor at blandit congue. Pellentesque vel felis posuere, molestie metus id, vulputate turpis. Maecenas cursus ante a diam porttitor mollis. Etiam vehicula dictum diam, eu pulvinar odio ultrices non. Vivamus viverra fermentum tortor, sit amet interdum nisl fermentum sed.

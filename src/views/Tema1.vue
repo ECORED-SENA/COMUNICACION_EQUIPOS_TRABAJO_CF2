@@ -8,7 +8,7 @@
         span 1
       h1 Barreras de la comunicación
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.mb-5
       .col-lg-7.mb-4.mb-lg-0
         p Las barreras de la comunicación dificultan, limitan o evitan que el proceso comunicativo se dé en condiciones óptimas, generando de esta manera distorsiones en la interpretación del mensaje en un proceso comunicativo. Es por ello que el mundo actual cambia constantemente y exige que las empresas diseñen estrategias de comunicación, en todos los niveles de la organización, que garanticen la resistencia en el mercado.
         p.mb-0 Estos elementos que distorsionan la interpretación del mensaje se denominan barreras, las cuales se pueden observar en el siguiente video
@@ -21,16 +21,16 @@
           img(src="@/assets/curso/t1-02.svg")
 
         .col-md
-          .titulo-segundo.color-secundario.mb-4
+          .titulo-segundo.color-acento-contenido.mb-4
             h2.text-white Barreras de la Comunicación. ¿Qué son barreras en la comunicación? Tipos de barreras.
 
-          p.text-white.mb-4 Para afianzar sus conocimientos en identificar las barreras de la comunicación le invitamos a visitar el siguiente video de Youtube en la url
+          p.text-white.mb-4 Para afianzar sus conocimientos en identificar las barreras de la comunicación, le invitamos a ver el siguiente video de Youtube.
 
-          a.boton
+          a.boton(href="https://www.youtube.com/watch?v=0VA1LgYoQCg" target="_blank")
             span.me-1 Video
             i.fas.fa-angle-right
 
-    #t1-1.titulo-segundo.color-secundario.mb-4
+    #t1-1.titulo-segundo.color-acento-contenido.mb-4
       h2 1.1 Tipos de barreras en la comunicación
 
     p Se puede señalar que las barreras de la comunicación son obstáculos que se dan en el proceso comunicativo y pueden llegar a dañar o a hacer menos claro un mensaje. Algo que puede orientar son los juegos “el telegrama” o “el teléfono roto”, donde se conforma una rueda de jugadores y en algún lugar se introduce un mensaje que se deberá transmitir hasta el otro extremo, sin oportunidad de repetirlo, de jugador a jugador, dicho al oído. Al llegar al final de la rueda, se confronta el mensaje con el original y se evidencian las distorsiones y las barreras comunicativas. 
@@ -70,14 +70,14 @@
           img(src='@/assets/curso/t1-07.svg')
 
 
-    #t1-2.titulo-segundo.color-secundario.mb-4
+    #t1-2.titulo-segundo.color-acento-contenido.mb-4
       h2 1.2 Cómo detectar barreras de comunicación en la empresa
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-7.mb-4.mb-lg-0
         p Las organizaciones dependen en gran medida de la comunicación para que las cosas funcionen de manera correcta y se logren los objetivos trazados, también para que los empleados sientan gusto al trabajar y para que entiendan lo que se requiere de ellos. 
         p Al hablar de barreras de comunicación en las organizaciones, se hace referencia a todo lo que imposibilita una interacción perfecta al transmitir el mensaje a los miembros que las integran. Es importante que directivos y trabajadores identifiquen los problemas, muros y distorsiones que las generan, para trabajar a gusto y enfocados en el éxito de sus tareas.
-        p Para que la comunicación sea eficaz, se debe tener claridad en el manejo de la cultura organizacional y de los procesos de onboarding que facilitan la alineación de los nuevos empleados. Una mala comunicación puede crear un mal ambiente laboral, alta rotación de empleados, pérdidas de clientes por insatisfacción en el servicio, productos de calidad deficiente y pérdida en los ingresos.
+        p Para que la comunicación sea eficaz, se debe tener claridad en el manejo de la cultura organizacional y de los procesos de <em>Onboarding</em> que facilitan la alineación de los nuevos empleados. Una mala comunicación puede crear un mal ambiente laboral, alta rotación de empleados, pérdidas de clientes por insatisfacción en el servicio, productos de calidad deficiente y pérdida en los ingresos.
         p.mb-0 Las principales barreras de comunicación organizacional son:
       .col-lg-5
         img.mb-5(src="@/assets/curso/t1-08.png")

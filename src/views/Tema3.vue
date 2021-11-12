@@ -8,7 +8,7 @@
         span 3
       h1 Canales de comunicación
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.mb-5
       .col-lg-7.mb-4.mb-lg-0
         p Un canal de comunicación se define como el medio físico utilizado para transmitir datos, mensajes o información, que envía un emisor a uno o varios receptores.
 
@@ -28,7 +28,7 @@
             i.fas.fa-dot-circle.text-small
             p.mb-0 Están disponibles ante cualquier problema o necesidad.
 
-        p.mb-0 Grosso modo, los canales se dividen en:
+        p.mb-0 <em>Grosso modo</em>, los canales se dividen en:
 
       .col-lg-5
         img(src="@/assets/curso/t3-01.png")
@@ -94,7 +94,7 @@
           .col-lg-7.mb-4.mb-lg-0
             p Permiten una interacción directa y constante entre el emisor y el receptor.
               br
-              | Ejemplos: videollamadas, chats.
+              | Ejemplos: videollamadas, <em>chats</em>.
           .col-lg-5
             img(src="@/assets/curso/t3-07.svg")
 
@@ -164,14 +164,14 @@
 
     .row.justify-content-center
       .col-md-6.col-lg-4.mb-3.mb-lg-0
-        .tarjeta-nn.color-primario.pt-5.pb-4.px-4.h-100
+        .tarjeta-nn.tarjeta-nn--a.color-primario.pt-5.pb-4.px-4.h-100
           .row.justify-content-center.mb-4
             .col-10
               img(src="@/assets/curso/t3-10.svg")
           p.mb-0 Los canales de comunicación tienen alta relevancia en el mundo empresarial para mantener la interacción con sus diferentes públicos y cumplir con las expectativas de los clientes internos y externos. La selección de los canales debe realizarse con cuidado y estar fundamentada en una estrategia que contempla al público objetivo y el análisis de las particularidades del negocio.
       
       .col-md-6.col-lg-4.mb-3.mb-lg-0
-        .tarjeta-nn.color-secundario.pt-5.pb-4.px-4.h-100
+        .tarjeta-nn.tarjeta-nn--b.color-secundario.pt-5.pb-4.px-4.h-100
           .row.justify-content-center.mb-4
             .col-10
               img(src="@/assets/curso/t3-11.svg")
@@ -179,7 +179,7 @@
 
 
       .col-md-6.col-lg-4
-        .tarjeta-nn.color-primario.pt-5.pb-4.px-4.h-100
+        .tarjeta-nn.tarjeta-nn--a.color-primario.pt-5.pb-4.px-4.h-100
           .row.justify-content-center.mb-4
             .col-10
               img(src="@/assets/curso/t3-12.svg")
