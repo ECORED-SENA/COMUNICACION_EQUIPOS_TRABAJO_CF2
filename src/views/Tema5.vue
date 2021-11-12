@@ -131,7 +131,7 @@
       .col-lg-10
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/A_qgEONAKhc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     p.mb-5 Dentro de las estrategias para resolver conflictos en el trabajo, se inicia con una discusión en una reunión, por correo electrónico, con un cliente, durante una llamada, o por algún otro tipo de interacción. Estas estrategias se pueden observar a continuación.
 
