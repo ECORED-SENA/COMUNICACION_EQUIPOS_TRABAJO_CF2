@@ -393,12 +393,6 @@ export default {
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },
-      {
         nombre: 'Jhana Johanna Bustillo Ardila',
         cargo: 'Validación de diseño y contenido',
         centro:
