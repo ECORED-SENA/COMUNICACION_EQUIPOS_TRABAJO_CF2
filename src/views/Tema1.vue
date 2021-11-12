@@ -83,7 +83,7 @@
         .col-lg-7.mb-4.mb-lg-0
           p Las organizaciones dependen en gran medida de la comunicación para que las cosas funcionen de manera correcta y se logren los objetivos trazados, también para que los empleados sientan gusto al trabajar y para que entiendan lo que se requiere de ellos. 
           p Al hablar de barreras de comunicación en las organizaciones, se hace referencia a todo lo que imposibilita una interacción perfecta al transmitir el mensaje a los miembros que las integran. Es importante que directivos y trabajadores identifiquen los problemas, muros y distorsiones que las generan, para trabajar a gusto y enfocados en el éxito de sus tareas.
-          p Para que la comunicación sea eficaz, se debe tener claridad en el manejo de la cultura organizacional y de los procesos de <em>Onboarding</em> que facilitan la alineación de los nuevos empleados. Una mala comunicación puede crear un mal ambiente laboral, alta rotación de empleados, pérdidas de clientes por insatisfacción en el servicio, productos de calidad deficiente y pérdida en los ingresos.
+          p Para que la comunicación sea eficaz, se debe tener claridad en el manejo de la cultura organizacional y de los procesos de <em>onboarding</em> que facilitan la alineación de los nuevos empleados. Una mala comunicación puede crear un mal ambiente laboral, alta rotación de empleados, pérdidas de clientes por insatisfacción en el servicio, productos de calidad deficiente y pérdida en los ingresos.
           p.mb-0 Las principales barreras de comunicación organizacional son:
         .col-lg-5
           img.mb-5(src="@/assets/curso/t1-08.png")

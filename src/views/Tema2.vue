@@ -98,7 +98,7 @@
                 img(src="@/assets/curso/t2-05.svg")
               .col-lg-8
               
-                .titulo-segundo.color-acento-contenido.mb-4
+                .titulo-segundo.color-acento-contenido.text-white.mb-4
                   h2 Técnicas avanzadas de comunicación asertiva   
                 p.text-white Para reforzar sus conocimientos en identificar las técnicas de comunicación asertiva, se invita a visitar el siguiente video de YouTube.
 
