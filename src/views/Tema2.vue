@@ -288,12 +288,12 @@
               i.fas.fa-dot-circle.text-small
               p.mb-0
                 b Mantener la motivación: 
-                | Es muy importante para un equipo creer en lo que están haciendo y en el objetivo que persiguen.
+                | es muy importante para un equipo creer en lo que están haciendo y en el objetivo que persiguen.
             li 
               i.fas.fa-dot-circle.text-small
               p.mb-0
                 b Tener claro el rol de cada uno dentro del equipo: 
-                | Conocer lo que cada quien debe hacer y las responsabilidades de cada miembro.
+                | conocer lo que cada quien debe hacer y las responsabilidades de cada miembro.
             li 
               i.fas.fa-dot-circle.text-small
               | Tener la mente abierta y estar dispuesto al aprendizaje continuo.
