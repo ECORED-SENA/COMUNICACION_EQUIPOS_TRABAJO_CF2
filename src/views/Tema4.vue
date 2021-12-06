@@ -14,7 +14,7 @@
           .coso-1
             img(src="@/assets/curso/coso-0.svg")
           p.position-relative Garantizar el servicio al cliente es una prioridad para las organizaciones que se enfrentan a una creciente oferta del mercado e implica encontrar la forma de fidelizarlo. Desde este punto de vista, se establecen protocolos de atención que sirven de guía para que los empleados cumplan con los procedimientos apropiados para relacionarse con los clientes.
-          p.position-relative.mb-0 Un protocolo de atención, aparte de ser una guía para los colaboradores de la organización sobre la manera de tratar con el cliente, también contiene la visión y los criterios de lo que significa un buen servicio al cliente y busca garantizar que la interacción con el cliente sea eficaz. Se invita a escuchar el siguiente <em>podcast</em>.
+          p.position-relative.mb-0 Un protocolo de atención, aparte de ser una guía para los colaboradores de la organización sobre la manera de tratar con el cliente, también contiene la visión y los criterios de lo que significa un buen servicio al cliente y busca garantizar que la interacción con el cliente sea eficaz. Se invita a visitar el material complementario para ver el Blog.hubspot.es y profundizar en los protocolos de servicio al cliente.
 
         .col-lg-5
           img(src="@/assets/curso/t4-01.png")

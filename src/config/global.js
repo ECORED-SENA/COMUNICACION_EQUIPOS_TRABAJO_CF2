@@ -270,7 +270,7 @@ export default {
     },
     {
       texto:
-        'Hammond, M. (2021). Todo sobre el protocolo de servicio al cliente y cómo diseñarlo. HubSpot.',
+        'Hammond, M. (2021). Cómo diseñar un protocolo de atención al cliente (con ejemplos). HubSpot.',
       tipo: 'Blog post',
       link: 'https://blog.hubspot.es/service/protocolo-servicio-cliente',
     },
@@ -400,6 +400,16 @@ export default {
       },
     ],
     gestoresRepositorio: [
+      {
+        nombre: 'Álvaro Andrés Angarita Ramirez',
+        cargo: 'Validación y vinculación en plataforma LMS',
+        centro: 'Centro de Comercio y Servicios Regional Tolima',
+      },
+      {
+        nombre: 'Daniel Felipe Varón Molina',
+        cargo: 'Validación y vinculación en plataforma LMS',
+        centro: 'Centro de Comercio y Servicios Regional Tolima',
+      },
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: 'Validación y vinculación en plataforma LMS',
